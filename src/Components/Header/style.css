@@ -1,0 +1,8 @@
+.header-wrapper {
+    text-align: center;
+    padding: 1em;
+    background-image: linear-gradient(90deg,#fd8383,#ff2e73);
+    text-transform: capitalize;
+    font-size: 30px;
+    color: #fff;
+}
